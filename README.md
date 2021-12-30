@@ -11,12 +11,12 @@ SD1-1106-
   - 天气 阴天、晴天、雨天；
   - 地理位置 城市、乡村、隧道、高速等
 - 1.1检测流程**
-  
+  ![流程](imgs/检测流程.png)
 
 2.数据集
 
 - baseline 训练及优化使用ONCE（华为）：One Million Scenes for Autonomous Driving数据集( Dataset数据集地址：once-for-auto-driving.github.io/index.html)
--  
+- ![ONCE](imgs/oncedataset.png)  ![ONCE_s](imgs/once_.png)
 - cited  from  Mao, J., Niu, M., Jiang, C., Liang, H., Chen, J., Liang, X., ... & Xu, C. (2021). One million scenes for autonomous driving: Once dataset. arXiv preprint arXiv:2106.11037.
 - 后期使用根据回传的数据进行模型的迭代优化
 - 类别数 ： 1类，车辆，选用汽车类
