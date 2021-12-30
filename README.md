@@ -6,6 +6,7 @@
 任务场景：
 边界场景：
 1.1检测流程
+![img](https://github.com/LKatrina/SD1-1106-/blob/main/imgs/%E6%A3%80%E6%B5%8B%E6%B5%81%E7%A8%8B.png)
 
 
 
