@@ -7,12 +7,13 @@
 - **任务场景**：
 - **边界场景**：
   - **1.1检测流程****
-   ![流程](imgs/检测流程.png)
+    ![流程](imgs/检测流程.png)
 
 ## 2.数据集
-- baseline 训练及优化使用ONCE（华为）：One Million Scenes for Autonomous Driving数据集后期使用根据回传的数据进行模型的迭代优化
+- baseline 训练及优化使用ONCE（华为）：One Million Scenes for Autonomous Driving数据集( Dataset数据集地址：once-for-auto-driving.github.io/index.html)
+- 后期使用根据回传的数据进行模型的迭代优化
 
-- **类别数 ：** 2类，车辆和行人
+- **类别数 ：** 2类，车辆和
 
 - **训练集图片：**
 - **测试集图片：**
