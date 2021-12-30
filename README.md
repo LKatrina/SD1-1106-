@@ -7,7 +7,7 @@
 - **任务场景**：
 - **边界场景**：
   - **1.1检测流程****
-   ![img](./imgs/目标检测.png)
+   ![img](imgs/检测流程.png)
 
 ## 2.数据集
 - baseline 训练及优化使用ONCE（华为）：One Million Scenes for Autonomous Driving数据集后期使用根据回传的数据进行模型的迭代优化
